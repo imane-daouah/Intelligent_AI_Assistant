@@ -1,7 +1,7 @@
 from tkinter import*
 from PIL import Image , ImageTk
 import action 
-import spech_to_text 
+import speak_to_text 
 
 
 def User_send():
@@ -16,7 +16,7 @@ def User_send():
 
 def ask():
 
-    ask_val= spech_to_text.spech_to_text()
+    ask_val= speak_to_text.spech_to_text()
     bot_val = action.Action(ask_val)
     text.insert(END, "Me --> "+ask_val+"\n") 
     if bot_val != None:
