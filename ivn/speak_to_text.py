@@ -3,7 +3,7 @@ from requests_html import HTMLSession
 import speak
 
 
-def spech_to_text():
+def speak_to_text():
     r =  sr.Recognizer()
     with sr.Microphone() as source:
       audio = r.listen(source) # methord 
