@@ -48,7 +48,7 @@ Text_lable.grid(row=0 ,  column=0 , padx=20 , pady= 10)
 
 
 # Image 
-Display_Image = ImageTk.PhotoImage(Image.open("image/assitant.png"))
+Display_Image = ImageTk.PhotoImage(Image.open("image/assistant.png"))
 Image_Lable = Label(Main_frame, image= Display_Image)
 Image_Lable.grid(row = 1 ,  column=0 , pady=20)
 
