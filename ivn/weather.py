@@ -7,8 +7,7 @@ from requests_html import HTMLSession
 import speak_to_text
 from lxml_html_clean import Cleaner
 
-
-def Weather():
+def weather():
     s  =  HTMLSession()
     query = "patna"
     url = f'https://www.google.com/search?q=weather+{query}'
@@ -19,5 +18,3 @@ def Weather():
     desc  = r.html.find('span#wob_dc' , first= True).text
     return temp+" "+unit+" "+ desc
 
-
-  

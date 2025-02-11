@@ -60,9 +60,10 @@ def Action(send) :
         return "YouTube open"    
     
     elif 'weather' in data_btn :
-       ans   = weather.Weather()
-       speak.speak(ans) 
-       return ans
+       url ='https://www.google.com/search?q=meteo+casablanca&oq=meteo+casa&gs_lcrp=EgZjaHJvbWUqEggAEAAYRhiDARiAAhixAxiABDISCAAQABhGGIMBGIACGLEDGIAEMgYIARBFGDkyBwgCEAAYgAQyBwgDEAAYgAQyCggEEAAYsQMYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg4ODQ0ajBqN6gCCLACAQ&sourceid=chrome&ie=UTF-8'
+       webbrowser.get().open(url)
+       speak.speak('Look at the weather') 
+       return 'weather Open'
 
     elif 'music from my laptop' in data_btn:
         url = 'D:\\music' 
