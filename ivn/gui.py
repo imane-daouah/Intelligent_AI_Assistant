@@ -32,7 +32,7 @@ root = Tk()
 #root.geometry("550x675")
 root.geometry("550x700")
 
-root.title("AI Assistant")
+root.title("AIAssistant")
 root.resizable(False,False)
 root.config(bg="#BEBEBE")
 
@@ -46,7 +46,7 @@ Main_frame.grid(row = 0 ,  column= 1 ,  padx= 55 ,  pady =  10)
 
 
 # Text Lable 
-Text_lable = Label(Main_frame, text = "AI Assistant" , font=("comic Sans ms" ,  14 , "bold" ) , bg = "#FFFFFF")
+Text_lable = Label(Main_frame, text = "MIRA IA" , font=("comic Sans ms" ,  14 , "bold" ) , bg = "#FFFFFF")
 Text_lable.grid(row=0 ,  column=0 , padx=20 , pady= 10)
 
 
