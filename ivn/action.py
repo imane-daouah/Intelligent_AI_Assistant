@@ -1,8 +1,7 @@
 import datetime
 import speak
 import webbrowser
-import weather
-import os
+
 
 
 
