@@ -4,6 +4,7 @@
 **Intelligent AI Assistant** est un assistant virtuel développé en Python utilisant **Tkinter** pour l'interface graphique, **speech_recognition** pour la reconnaissance vocale et **pyttsx3** pour la synthèse vocale.
 
 🛠️ Fonctionnalités
+
 ✅ **Reconnaissance vocale** : Comprend et interprète la voix de l'utilisateur.  
 ✅ **Synthèse vocale** : Répond à l'utilisateur par une voix artificielle.  
 ✅ **Affichage d'une interface utilisateur (Tkinter)** : Fenêtre interactive avec des boutons et une boîte de dialogue.  
@@ -13,6 +14,7 @@
 
 
 🚀 Installation et Exécution
+
  1️⃣ **Cloner le projet**
 ```bash
 git clone https://github.com/ton-utilisateur/Intelligent_AI_Assistant.git
