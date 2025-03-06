@@ -48,3 +48,6 @@ python gui.py
 - **requests_html** (Web Scraping)
 
 
+
+![Capture d'écran 2025-02-10 181854](https://github.com/user-attachments/assets/a111ceea-0bc5-4b32-a880-43b6878d9c51)
+
