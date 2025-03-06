@@ -44,5 +44,5 @@ python gui.py
 - **requests_html** (Web Scraping)
 
 
-![Capture d'écran 2025-02-10 181854](https://github.com/user-attachments/assets/a111ceea-0bc5-4b32-a880-43b6878d9c51)
+![Capture d'écran 2025-02-20 012352](https://github.com/user-attachments/assets/a3ed9d0c-bb88-4d50-974a-3fed4c0b1176)
 
