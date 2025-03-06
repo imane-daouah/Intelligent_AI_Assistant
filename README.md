@@ -1,6 +1,7 @@
 🤖 Intelligent AI Assistant
 
 📌Description
+
 **Intelligent AI Assistant** est un assistant virtuel développé en Python utilisant **Tkinter** pour l'interface graphique, **speech_recognition** pour la reconnaissance vocale et **pyttsx3** pour la synthèse vocale.
 
 🛠️ Fonctionnalités
@@ -35,6 +36,7 @@ python gui.py
 ```
 
 📌Technologies utilisées
+
 - **Python 3.x**
 - **Tkinter** (Interface utilisateur)
 - **SpeechRecognition** (Reconnaissance vocale)
