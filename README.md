@@ -44,5 +44,5 @@ Technologies utilisées
 - **requests_html** (Web Scraping)
 
 
-![Capture d'écran 2025-02-20 012352](https://github.com/user-attachments/assets/a3ed9d0c-bb88-4d50-974a-3fed4c0b1176)
+![image](https://github.com/user-attachments/assets/cf393d32-5535-46ea-9508-f96fa9e4aa83)
 
