@@ -9,8 +9,8 @@ def Action(send) :
     data_btn  = send.lower()
 
     if "what is your name" in   data_btn :
-      speak.speak("my name is virtual Assistant")  
-      return "my name is virtual Assistant"
+      speak.speak("my name is Mira")  
+      return "my name is Mira"
 
     elif "hello" in data_btn  or "hye" in data_btn  or "hay" in data_btn: 
         speak.speak("Hey sir, How i can  help you !")  
